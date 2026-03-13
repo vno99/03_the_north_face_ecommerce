@@ -36,3 +36,7 @@ python -m pip install -r requirements.txt
 ```
 python -m spacy download en_core_web_sm -q
 ```
+
+## GitHub
+
+https://github.com/vno99/03_the_north_face_ecommerce
